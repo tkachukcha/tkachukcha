@@ -5,6 +5,7 @@ Love to code and to surf.
 - HTML, CSS, SASS
 - JS, React, Redux
 - Bootstrap, TailwindCSS, MaterialUI
+- Wordpress + php basics
 
 ### Learning
 - NodeJS, TypeScript
