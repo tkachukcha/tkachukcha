@@ -1,17 +1,19 @@
 ## Hi, I’m Dan, a frontend developer
 Love to code and to surf. 
 
+I've been freelancing in the web development field as a Wordpress Developer for 5+ years. At this position I created html/css layouts, developed custom wordpress themes and created websites based on them, including deployment on hosting.
+For the last year I've been actively learning JavaScript/React every day and at the moment I want to continue to evolve as a professional frontend developer. 
+ 
 ### My stack
 - JavaScript ES6+
-- React (hooks, routing, API services, authorization)
-- Redux
+- ReactJS - hooks, routing, API services, authorization, working with FireBase
+- Redux/thunk
 - Formik/yup
-- FireBase
-- Material UI/React Bootstrap/Tailwind CSS
-- Webpack
-- npm
-- Git (GitHub)
-- HTML/CSS/SCSS/BEM
+- CSS/SASS -  component-oriented CSS + BEM. Responsive design and mobile first. 
+- React Bootstrap, Material UI, Tailwind, Bootstrap
+- Have a little bit of scraping experience with puppeteer and axios
+- Familiar with Webpack and NPM
+- Git/github
 - Wordpress/WooCommerce
 - PHP basics
 
