@@ -1,10 +1,17 @@
-## Hi, I’m Dan, a junior frontend developer
+## Hi, I’m Dan, a frontend developer
 Love to code and to surf. 
 
-### My stack:
-- HTML, CSS, SASS
-- JS, React, Redux
-- Bootstrap, TailwindCSS, MaterialUI
+### My stack
+- JavaScript ES6+
+- React (hooks, routing, API services, authorization)
+- Redux
+- Formik/yup
+- FireBase
+- Material UI/React Bootstrap/Tailwind CSS
+- Webpack
+- npm
+- Git (GitHub)
+- HTML/CSS/SCSS/BEM
 - Wordpress/WooCommerce
 - PHP basics
 
