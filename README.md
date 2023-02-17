@@ -2,23 +2,21 @@
 Love to code and to surf. 
 
 I've been freelancing in the web development field as a Wordpress Developer for 5+ years. At this position I created html/css layouts, developed custom wordpress themes and created websites based on them, including deployment on hosting.
-For the last year I've been actively learning JavaScript/React every day and at the moment I want to continue to evolve as a professional frontend developer. 
+In the recent years I'm creating interfaces logic as a frontend developer with Typescript, React, Tailwind. 
  
-### My stack
+### Stack
 - JavaScript/TypeScript
 - ReactJS
-- Redux/thunk
-- Formik/yup
 - CSS/SASS -  component-oriented CSS + BEM. Responsive design and mobile first. 
-- React Bootstrap, Material UI, Tailwind, Bootstrap
-- Have a little bit of scraping experience with puppeteer and axios
+- Tailwind, Material UI, Bootstrap, React Bootstrap, 
+- NodeJs/express basics
+- A bit of experience with NESTJs
+- Some experience with puppeteer and axios
+- Hugo/AlpineJS
 - Familiar with Webpack, Vite, NPM
-- Git/github
 - Wordpress/WooCommerce
 - PHP basics
 
-### Learning
-- NodeJS, TypeScript
 
 <!---
 tkachukcha/tkachukcha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
