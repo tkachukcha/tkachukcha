@@ -1,4 +1,4 @@
-## Hi, I’m Dan, a frontend developer
+## Hi, I’m Dan, a fullstack developer
 Love to code and to surf. 
 
 I've been freelancing in the web development field as a Wordpress Developer for 5+ years. At this position I created html/css layouts, developed custom wordpress themes and created websites based on them, including deployment on hosting.
@@ -16,7 +16,7 @@ In the recent years I'm creating interfaces logic as a frontend developer with T
 - Familiar with Webpack, Vite, NPM
 - Wordpress/WooCommerce
 - PHP basics
-
+- Python, poetry, fastapi
 
 <!---
 tkachukcha/tkachukcha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
