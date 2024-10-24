@@ -1,22 +1,23 @@
 ## Hi, I’m Dan, a fullstack developer
-Love to code and to surf. 
+Love to code, ride boards and play music. 
 
-I've been freelancing in the web development field as a Wordpress Developer for 5+ years. At this position I created html/css layouts, developed custom wordpress themes and created websites based on them, including deployment on hosting.
-In the recent years I'm creating interfaces logic as a frontend developer with Typescript, React, Tailwind. 
- 
-### Stack
-- JavaScript/TypeScript
-- ReactJS
-- CSS/SASS -  component-oriented CSS + BEM. Responsive design and mobile first. 
-- Tailwind, Material UI, Bootstrap, React Bootstrap, 
-- NodeJs/express basics
-- A bit of experience with NESTJs
-- Some experience with puppeteer and axios
-- Hugo/AlpineJS
-- Familiar with Webpack, Vite, NPM
-- Wordpress/WooCommerce
-- PHP basics
-- Python, poetry, fastapi
+Full stack developer, 2+ years of commercial development experience with React and python. Currently using FARM/P stack (FastAPI, ReactJS/TS, mongoDB/Postgre), managing small project team.
+
+Before coming into frontend scene, I've been freelancing in the web development field as a Wordpress Developer for 5+ years. At this position I created html/css layouts, developed custom wordpress themes, created websites based on them, including deployment on hosting.
+
+Current stack:
+- JS/TS
+- React/TailwindCSS + Zustand
+- Jest/Cypress
+- Python/FastAPI/Jinja
+- FireBase/MongoDB/Postgre
+- Hugo/AlpineJS/HTMX
+- NodeJS basics
+- Git/npm/webpack/docker/github ci/cd
+- Google Cloud: Cloud run, cloud build, etc
+- Jira/Youtrack/Clickup
+- Feature-Sliced Design
+- MicroFrontends with Module Federation
 
 <!---
 tkachukcha/tkachukcha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
